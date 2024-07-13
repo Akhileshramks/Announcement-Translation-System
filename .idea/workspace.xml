@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5639e04f-406b-4994-8add-571c2537dd22" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_02_2023_12_46__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_02_2023_12_46__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_02_2023_17_05__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_02_2023_17_05__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_02_2023_22_15__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_23_02_2023_22_15__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectFrontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectFrontEnd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectFrontEnd/src/app/app.roting.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectFrontEnd/src/app/app.roting.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="18942f86-ff73-464b-b222-d7d26ed56b88" />
+        <option name="url" value="https://github.com/CodeURJC-DAW-2022-23/webapp8.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2M6V5JNeiokfmHeDvFhq9yJgRcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/ikarm/Desktop/webapp8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "8f37f76bce550937b4288df4f5e67ed8",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
+    "two.files.diff.last.used.file": "C:/Users/masan/OneDrive/Uni/2/2 Cuatri/DAW (Diseno de Aplicaciones Web)/Practica/webapp8/ProjectBackEnd/src/main/resources/static/templates/home.html",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\masan\OneDrive\Uni\2\2 Cuatri\DAW (Diseno de Aplicaciones Web)\Practica\webapp8\ProjectBackEnd\src\main\java\com\TwitterClone\ProjectBackend\Service" />
+      <recent name="C:\Users\masan\OneDrive\Uni\2\2 Cuatri\DAW (Diseno de Aplicaciones Web)\Practica\webapp8\ProjectBackEnd\src\main\java\com\TwitterClone\ProjectBackend\userManagement" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\masan\OneDrive\Uni\2\2 Cuatri\DAW (Diseno de Aplicaciones Web)\Practica\webapp8\ProjectBackEnd\src\main\java\com\TwitterClone\ProjectBackend\userManagement" />
+      <recent name="C:\Users\masan\OneDrive\Uni\2\2 Cuatri\DAW (Diseno de Aplicaciones Web)\Practica\webapp8\ProjectBackEnd\src\main\java\com\TwitterClone\ProjectBackend\Service" />
+      <recent name="C:\Users\masan\OneDrive\Uni\2\2 Cuatri\DAW (Diseno de Aplicaciones Web)\Practica\webapp8\ProjectBackEnd\src\main\java\com\TwitterClone\ProjectBackend\Model" />
+      <recent name="C:\Users\masan\OneDrive\Uni\2\2 Cuatri\DAW (Diseno de Aplicaciones Web)\Practica\webapp8\ProjectBackEnd\src\main\java\com\TwitterClone\ProjectBackend\Controller" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProjectBackendApplication">
+    <configuration name="ProjectBackEndApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ProjectBackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TwitterClone.ProjectBackEnd.ProjectBackEndApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ProjectBackEnd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.TwitterClone.ProjectBackend.ProjectBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5639e04f-406b-4994-8add-571c2537dd22" name="Changes" comment="" />
+      <created>1677087834827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677087834827</updated>
+      <workItem from="1677087836016" duration="664000" />
+      <workItem from="1677090815668" duration="107000" />
+      <workItem from="1677090956593" duration="107000" />
+      <workItem from="1677093543016" duration="77000" />
+      <workItem from="1677099703798" duration="10999000" />
+      <workItem from="1677144828150" duration="5560000" />
+      <workItem from="1677150407708" duration="627000" />
+      <workItem from="1677151428858" duration="4061000" />
+      <workItem from="1677168070234" duration="1143000" />
+      <workItem from="1677169302434" duration="109000" />
+      <workItem from="1677169557733" duration="88000" />
+      <workItem from="1677186775354" duration="7428000" />
+      <workItem from="1677199460505" duration="49000" />
+      <workItem from="1677230396992" duration="10253000" />
+      <workItem from="1677256873090" duration="618000" />
+      <workItem from="1681063645343" duration="119000" />
+      <workItem from="1681190794363" duration="35000" />
+      <workItem from="1681726589950" duration="257000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ProjectBackEnd/src/main/java/com/TwitterClone/ProjectBackend/Service/DBInitializer.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

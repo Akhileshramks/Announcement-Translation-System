@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Image gallery for announcements</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" rel="stylesheet">    
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
+
+    <link href="jquery.bsPhotoGallery.css" rel="stylesheet">
+    <script src="jquery.bsPhotoGallery.js"></script>	
+	
+    </script>
+    <script>
+      $(document).ready(function(){
+        $('ul.first').bsPhotoGallery({
+          "classes" : "col-xl-3 col-lg-2 col-md-4 col-sm-4",
+          "hasModal" : true,
+          "shortText" : false  
+        });
+      });
+    </script>
+     <style>
+        /* Add hover effect */
+        .thumbnail-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .thumbnail-container:hover .full-image {
+            display: block;
+        }
+        .container img:hover {
+            transform: scale(1.1);
+        }
+        .full-image {
+            display: none;
+            transform: scale(2.1);
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+        }
+
+        .full-image img {
+            display: block;
+            margin: auto;
+            max-width: 100%;
+            max-height: 100%;
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+        }
+
+    </style>
+     </head>
+  <body bgcolor="blue">
+    <div class="container">
+        <div class="row" style="text-align:center; border-bottom:1px dashed #ccc;  padding:30px 0 20px 0; margin-bottom:40px;">
+            <div class="col-lg-12">
+            <h3 style="font-family:'Bree Serif', arial; font-weight:bold; font-size:30px;">
+                Image gallery for announcements
+            </h3>
+            <p>Different types of announcements</p>
+            </div>
+        </div>
+
+        <ul class="row first">
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img1.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img1.jpg" alt="Rocking the night away">
+                </div>
+                <p>Hiring announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img2.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img2.jpg" alt="Rocking the night away">
+                </div>
+                <p>Pizza sales announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img3.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img3.jpg" alt="Rocking the night away">
+                </div>
+                 <p>Quiz test announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img4.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img4.jpg" alt="Rocking the night away">
+                </div>
+                <p>Opening ceremony announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img5.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img5.jpg" alt="Rocking the night away">
+                </div>
+                <p>Meeting announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img6.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img6.jpg" alt="Rocking the night away" data-bsp-large-src="http://demo.michaelsoriano.com/images/photodune-916206-legal-large.jpg">
+                </div>
+                <p>Offer announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img7.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img7.jpg" alt="Rocking the night away">
+                </div>
+                <p>Offer announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img8.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img8.jpg" alt="Rocking the night away" data-bsp-large-src="http://demo.michaelsoriano.com/images/photodune-916206-legal-large.jpg">
+                </div>
+                <p>Instructions announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img9.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img9.jpg" alt="Rocking the night away">
+                <p>Notice announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img10.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img10.jpg" alt="Rocking the night away">
+                <p>Postponement announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img11.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img11.jpg" alt="Rocking the night away">
+                <p>Launch announcement</p>
+            </li>
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img12.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img12.jpg" alt="Rocking the night away">
+                <p>Offer announcement</p>
+            </li>
+
+            <li class="thumbnail-container">
+                <img class="thumbnail" alt="Rocking the night away"  src="img13.jpg" width="400" height="300">
+                <div class="full-image">
+                    <img src="img13.jpg" alt="Rocking the night away">
+          <p>Important announcement</p>
+      </li>
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img14.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img14.jpg" alt="Rocking the night away">
+          <p>Safety announcement</p>
+      </li>
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img15.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img15.jpg" alt="Rocking the night away">
+          <p>Conference announcement</p>
+      </li>
+
+
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img16.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img16.jpg" alt="Rocking the night away">
+          <p>Recruitment announcement</p>
+      </li>
+
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img17.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img17.jpg" alt="Rocking the night away">
+          <p>News announcement</p>
+      </li>
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img18.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img18.jpg" alt="Rocking the night away">
+          <p>Launch announcement</p>
+      </li>
+
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img19.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img19.jpg" alt="Rocking the night away">
+          <p>University announcement</p>
+      </li>
+
+      <li class="thumbnail-container">
+        <img class="thumbnail" alt="Rocking the night away"  src="img20.jpg" width="400" height="300">
+        <div class="full-image">
+            <img src="img20.jpg" alt="Rocking the night away">
+          <p>Collaboration announcement</p>
+      </li>
+  </ul>
+
+
+
+
+    </div> <!-- /container -->
+    <p style="font-family: 'Bree Serif', serif; font-size: 16px; text-align: center;">
+        <center>
+        <h1>Types of Announcements</h1>
+    </center>
+        <table style="margin: 0 auto; border-collapse: collapse; border: 2px solid #333;">
+            <tr>
+                <td style="border: 2px solid #333; padding: 10px;">
+                    <h2>Text-based announcements:</h2>
+                    <ul style="list-style-type: disc; padding-left: 20px;">
+                        <li>Event Announcements.</li>
+                        <li>Product Launch Announcements</li>
+                        <li>Policy Updates</li>
+                        <li>Employee Notices, Reminders</li>
+                        <li>School Announcements</li>
+                        <li>Community Updates</li>
+                    </ul>
+                </td>
+                <td style="border: 2px solid #333; padding: 10px;">
+                    <h2>Video-based announcements:</h2>
+                    <ul style="list-style-type: disc; padding-left: 20px;">
+                        <li>Product Launch Announcements</li>
+                        <li>Event Promotions</li>
+                        <li>Educational Announcements</li>
+                        <li>Safety Announcements</li>
+                        <li>Customer Service Announcements</li>
+                        <li>Corporate Social Responsibility (CSR) Announcements.</li>
+                    </ul>
+                </td>
+            </tr>
+            <tr>
+                <td style="border: 2px solid #333; padding: 10px;">
+                    <h2>Audio-based announcements:</h2>
+                    <ul style="list-style-type: disc; padding-left: 20px;">
+                        <li>Public Service Announcements</li>
+                        <li>Transportation Announcements</li>
+                        <li>Emergency Alerts</li>
+                        <li>Promotional Announcements</li>
+                        <li>Broadcast Announcements</li>
+                        <li>Retail Announcements</li>
+                        <li>Airport Security Announcements</li>
+                    </ul>
+                </td>
+                <td style="border: 2px solid #333; padding: 10px;">
+                    <h2>Image-based announcements:</h2>
+                    <ul style="list-style-type: disc; padding-left: 20px;">
+                        <li>Tourist Information Announcements</li>
+                        <li>Traffic signs</li>
+                        <li>Alerts, posters etc…</li>
+                    </ul>
+                </td>
+            </tr>
+        </table>
+    
+    </p>
+
+
+
+  </body>
+
+
+</html>
